@@ -100,6 +100,10 @@ class myPromise {
   }
 }
 
+
+
+
+
 // Example Case:
 
 const jPromise = new myPromise((resolve, reject) => {
