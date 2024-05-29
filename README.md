@@ -1,4 +1,4 @@
-# Custom Promise Implementation
+# myPromise - A Custom Promise Implementation
 
 This project is a custom implementation of JavaScript Promises, designed to mimic the behavior of native Promises and provide a deeper understanding of how Promises work under the hood.
 
